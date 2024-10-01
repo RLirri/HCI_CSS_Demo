@@ -1,27 +1,83 @@
 /* Sets the color of all <h1> elements to purple */
 
+h1 {
+  color: purple;
+}
+
 /* Sets the color of all <h3> elements to pink */
 
+h3 {
+  color: pink;
+}
 /* Sets the background color of all <div> elements to purple */
 
+div {
+  background-color: purple;
+}
+
 /* Targets the element with id "special" and sets its text color to red */
+#special {
+  color: red;
+}
 
 /* Applies a green background to any element with the class "highlight" */
 
+.highlight {
+  background: green;
+}
+
 /* Targets <p> elements inside <div> elements and gives them a yellow background color */
+
+div p {
+  background-color: yellow;
+}
 
 /* Styles elements with the class "companyname" to be bold, use a serif font, and have an increased font size */
 
+.companyname {
+  font-weight: bold;
+  font-family: serif;
+  font-size: 1.5em;
+}
+
 /* Adds a solid border to <hr> elements with the class "style1" */
+
+hr.style1 {
+  border: 2px solid;
+}
 
 /* Adds a double-line border to <hr> elements with the class "style2" */
 
+hr.style2 {
+  border: 2px double;
+}
+
 /* Adds a dashed border to <hr> elements with the class "style3" */
+
+hr.style3 {
+  border: 2px dashed;
+}
 
 /* Removes bullet points from unordered lists within <nav> */
 
+nav ul {
+  list-style-type: none;
+}
+
 /* Removes underline from all <a> (anchor/link) elements inside <nav> */
+
+nav a {
+  text-decoration: none;
+}
 
 /* Adds a red border around all <h2> elements */
 
+h2 {
+  border: 2px solid red;
+}
+
 /* Adds a red border around all <a> (anchor/link) elements */
+
+a {
+  border: 2px solid red;
+}

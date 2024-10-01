@@ -2,6 +2,21 @@
    Adds a 15px letter spacing for wide character spacing, sets the font size to 80px, and uses a monospace font family. 
    (The Segoe UI, Futura, Arial font-family is commented out as an alternative option) */
 
+h1 {
+  text-align: center;
+  font-weight: 400;
+  text-decoration: underline wavy #f78120;
+  letter-spacing: 15px;
+  font-size: 80px;
+  font-family: "Segoe UI", "Futura", Arial, sans-serif;
+}
+
 /* Removes the default underline from all <a> (anchor/link) elements */
+a {
+  text-decoration: none;
+}
 
 /* Sets the line height of all <p> elements to 2, which increases the space between lines of text */
+p {
+  line-height: 2;
+}
