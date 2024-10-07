@@ -1,0 +1,40 @@
+/* Sets the font for the entire page to 'Open Sans' (or sans-serif if not available),
+   providing a clean, modern look */
+
+/* Centers the text within all <h1> and <h2> elements */
+
+/* Styles the #container div:
+   - Sets a dark blue background (#003049)
+   - Width is 90% of the viewport
+   - Centers the container with automatic left and right margins
+   - Applies a solid 5px border with the same dark blue color
+   - Uses Flexbox to align children in a row and centers them horizontally */
+
+/* Styles the individual divs inside #container:
+   - Each div is set to 200px wide and tall
+   - Centers text inside the divs
+   - The 'flex-basis' property allows flexible sizing, starting with 600px */
+
+/* For the first div in #container:
+   - Increases its growth potential relative to other elements (flex-grow: 1)
+   - Reduces its shrink potential more than others (flex-shrink: 2), 
+     allowing it to take less space when the container shrinks */
+
+/* For the fifth div in #container:
+   - Doubles its growth potential compared to others (flex-grow: 2), 
+     making it take more space when the container grows */
+
+/* Styles the main content area:
+   - Sets width to 80% of the viewport and centers it with auto margins
+   - Adds a 5px solid black border and sets the height to 500px
+   - Uses Flexbox to lay out the sidebar and main content inside */
+
+/* Styles the sidebar inside the main content area:
+   - Background color is a rich purple (#6930c3)
+   - Flex properties: grows at twice the rate of other elements (flex-grow: 2), 
+     shrinks more slowly (flex-shrink: 1), and sets an initial width of 300px (flex-basis: 300px) */
+
+/* Styles the main content section:
+   - Background color is a light greenish-blue (#80ffdb)
+   - Flex properties: grows twice as fast (flex-grow: 2), shrinks more slowly (flex-shrink: 1), 
+     and has an initial width of 800px (flex-basis: 800px) */

@@ -1,0 +1,21 @@
+/* Removes the default margin for the entire <body> to eliminate any spacing around the edges of the page */
+
+/* Sets a fixed width and height of 200px for all <div> elements */
+
+/* Adds a left margin of 30px and a top margin of 30px for all <span> elements */
+
+/* Styles the <h1> element with a pink background, sets its width to 200px, and adds 100px left padding and 50px top padding.
+   The margin is set to 0 to remove any spacing around the <h1> element */
+
+/* Styles the element with id "one" with a soft pink background color (#e5989b), 
+   adds a solid black border of 5px width, and sets a 50px left margin and a 100px bottom margin for spacing. 
+   The box-sizing property is commented out, but if enabled, it would ensure the padding and border are included within the width and height */
+
+/* Styles the element with id "two" with a warm brownish-pink background color (#b5838d), 
+   adds a dashed border with 3px width, a lighter color (#ffcdb2), and a thicker left border of 8px.
+   Includes 50px right padding and 200px margin on all sides for spacing */
+
+/* Styles the element with id "three" with a dark purple background (#6d6875), 
+   a 4px solid black border with a dotted left border, and gives it a circular shape using 50% border-radius */
+
+/* Sets padding of 10px for the top, 20px for the right, 30px for the bottom, and 40px for the left of all <button> elements */
