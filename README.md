@@ -16,7 +16,10 @@ This repository contains a demo for the HCI Web Development lab session focused 
 
 ## Resources:
 
-- [Week4 CSS Slide](https://docs.google.com/presentation/d/1U7hMYFA4M7AzeIHwu09ndS99G6UEAziI8bEFZurBbu0/edit?usp=sharing)
+- [Code Guide](https://codeguide.co/)
+- [Week6 CSS Framework Slide](https://docs.google.com/presentation/d/1ml6Fv9SWNN_OuvVWc02dYgKKtXY1NjbKVvkx_vaEQs4/edit?usp=sharing)
+- [Week5 CSS Layout Slide](https://docs.google.com/presentation/d/1YhJXBer3lBLDZuiFpocbmx25Y_6IBgSdV_yHt3G2shM/edit?usp=sharing)
+- [Week4 CSS Basics Slide](https://docs.google.com/presentation/d/1U7hMYFA4M7AzeIHwu09ndS99G6UEAziI8bEFZurBbu0/edit?usp=sharing)
 - [W3Schools CSS Tutorial](https://www.w3schools.com/w3css/default.asp)
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS-Tricks](https://css-tricks.com/)
